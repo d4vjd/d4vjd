@@ -1,9 +1,10 @@
 ### Hi there 👋
-
+![1674143012508](https://github.com/d4vjd/d4vjd/assets/46751321/8da439b5-fe23-4785-99f7-cb3abd37f789)
 <!--
 **d4vjd/d4vjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![1674143012508](https://github.com/d4vjd/d4vjd/assets/46751321/8da439b5-fe23-4785-99f7-cb3abd37f789)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
