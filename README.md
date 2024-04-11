@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **davidpupaza3@gmail.com** 📧
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/davidpupaza/](https://www.linkedin.com/in/davidpupaza/) 💼
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/davidpupaza/) 💼
 
 - ⚡ Fun fact: **I love hiking** 🌄
 
