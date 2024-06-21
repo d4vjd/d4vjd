@@ -3,15 +3,11 @@
 
 - 🔭 I’m currently working for [FossID](https://fossid.com) 🔍
 
-- 🌱 I’m currently learning **Vulnerability assessment, SAST, DAST** 🛡️
-
-- 💬 Ask me about **Software Licensing** ⚖️
+- 🌱 I’m currently learning **Vulnerability assessment, SAST, DAST, Software Licensing** 🛡️
 
 - 📫 How to reach me **davidpupaza3@gmail.com** 📧
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/davidpupaza/) 💼
-
-- ⚡ Fun fact: **I love hiking** 🌄
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
