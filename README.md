@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A passionate software auditor from Romania</h3>
+<h4 align="center">Software auditor from Romania</h3>
 
 - 🔭 I’m currently working for [FossID](https://fossid.com) 🔍
 
