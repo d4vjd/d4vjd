@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h4 align="center">Software auditor from Romania</h3>
 
-- 🔭 I’m currently working for [FossID](https://fossid.com) 🔍
+- Currently working for [FossID](https://fossid.com) 🔍
 
-- 🌱 I’m currently learning **Vulnerability assessment, SAST, DAST, Software Licensing** 🛡️
+- How to reach me **davidpupaza3@gmail.com** 📧
 
-- 📫 How to reach me **davidpupaza3@gmail.com** 📧
-
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/davidpupaza/) 💼
+- Know about my experiences [LinkedIn](https://www.linkedin.com/in/davidpupaza/) 💼
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
