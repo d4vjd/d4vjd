@@ -2,9 +2,6 @@
 <h3 align="center">🔍 Software Auditor | Open Source Compliance & Cybersecurity</h3>
 
 <p align="center">
-  <a href="https://fossid.com" target="_blank">
-    <img src="https://img.shields.io/badge/FossID-00457C?style=for-the-badge&logo=linuxfoundation&logoColor=white" alt="FossID" />
-  </a>
   <a href="https://www.linkedin.com/in/davidpupaza/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
