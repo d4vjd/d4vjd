@@ -16,7 +16,8 @@
 - 🧠 Specialized in **Open Source License Compliance** and **Application Security (SAST, Code Quality, PenTesting)**  
 - 💻 Experience with **C/C++, Java, Python, TypeScript/JavaScript**  
 - ⚙️ Skilled in **Snyk**, **SonarQube**, and **code quality metrics**  
-- 🎓 Master's student in **Applied Data Analytics** at the Bucharest University of Economic Studies  
+- 🎓 Master's student in **Applied Data Analytics** at the Bucharest University of Economic Studies
+- 📊 Passionate and skilled in Data Science, Data Mining and Machine Learning 
 
 ---
 
