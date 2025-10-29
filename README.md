@@ -30,7 +30,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <i>“Auditing code, securing systems, and empowering compliance through knowledge.”</i> 🔒
-</p>
