@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/davidpupaza/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:davidpupaza3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-davidpupaza3%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
